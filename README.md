@@ -1,5 +1,6 @@
 # beservice_intcallbacks
-battleye bypass that could have worked. abusing old secret.club vulnerability
+battleye bypass that could have worked. abusing old secret.club vulnerability.
+took bastian 11 days to ban me
 
 credits:
 - me (banging rocks together)
