@@ -1,5 +1,5 @@
 # beservice_intcallbacks
-battleye bypass that could have worked. abusing old secret.club vulnerability.
+battleye bypass that could have worked. abusing old secret.club vulnerability in a different way.
 
 credits:
 - me (banging rocks together)
